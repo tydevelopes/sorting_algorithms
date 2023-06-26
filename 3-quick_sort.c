@@ -41,7 +41,7 @@ int partition(int *array, int low, int high, size_t size)
 	return (x);
 }
 /**
- * lomuto_qsort - Sorting Recursively an Array
+ * _qsort - Sorting Recursively an Array
  * @array: Array to be sorted
  * @low: The lowest value of the array
  * @high: highest value of the array
